@@ -1,9 +1,9 @@
 - collection:
   - data_management
   description: Training materials from a workshop that provides an introduction to
-    the ENA data and metadata model and data retrieval tools, followed by an opportunity
-    to practice retrieving a range of different data types from the ENA using a variety
-    of tools and protocols.
+    the European Nucleotide Archive (ENA) data and metadata model and data retrieval
+    tools, followed by an opportunity to practice retrieving a range of different
+    data types from the ENA using a variety of tools and protocols.
   name: Retrieving nucleotide sequencing data from the European Nucleotide Archive
   provider: Australian BioCommons
   topics: Data sharing, Data reuse, Genomics
@@ -12,9 +12,9 @@
 - collection:
   - data_management
   description: Training materials from a series of workshops that step through three
-    different routes for submitting data to the European Nucleotide Archive including
-    interactive web-based submission, command-line based submission and programmatic
-    submission
+    different routes for submitting data to the European Nucleotide Archive (ENA)
+    including interactive web-based submission, command-line based submission and
+    programmatic submission
   name: Submitting sequencing data and genome assemblies to the European Nucleotide
     Archive
   provider: Australian BioCommons
