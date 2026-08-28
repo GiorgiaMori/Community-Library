@@ -1,7 +1,6 @@
 ---
 title: Nextflow
 type: Collection
-page_id: nextflow
 datatable: false
 ---
 
