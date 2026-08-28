@@ -1,5 +1,28 @@
 - collection:
   - data_management
+  description: Training materials from a workshop that provides an introduction to
+    the ENA data and metadata model and data retrieval tools, followed by an opportunity
+    to practice retrieving a range of different data types from the ENA using a variety
+    of tools and protocols.
+  name: Retrieving nucleotide sequencing data from the European Nucleotide Archive
+  provider: Australian BioCommons
+  topics: Data sharing, Data reuse, Genomics
+  type: Training Materials
+  url: https://zenodo.org/records/16060000
+- collection:
+  - data_management
+  description: Training materials from a series of workshops that step through three
+    different routes for submitting data to the European Nucleotide Archive including
+    interactive web-based submission, command-line based submission and programmatic
+    submission
+  name: Submitting sequencing data and genome assemblies to the European Nucleotide
+    Archive
+  provider: Australian BioCommons
+  topics: Data sharing, Genomics
+  type: Training Materials
+  url: https://zenodo.org/records/16060553
+- collection:
+  - data_management
   description: 'A tutorial with an overview of PRoteomics IDEntification (PRIDE) database,
     how to search and download datasets from PRIDE and an introduction of PRIDE tools:
     Proteome Xchange Submission Tool and PRIDE Inspector (to assess the quality of
