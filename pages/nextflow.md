@@ -2,10 +2,19 @@
 title: Nextflow
 type: Collection
 page_id: nextflow
-datatable: true
+datatable: false
 ---
 
-Nextflow has become a powerful tool for scalable and reproducible bioinformatics workflows, and nf-core provides a rich ecosystem of curated pipelines built on Nextflow’s latest framework.
-The Nextflow collection is curated and endorsed by Australian BioCommons and is designed to support individuals interested in navigating the Nextflow ecosystem. The collection consists of tutorials, workshops, recorded talks, blogs, and key websites. These resources cover fundamental concepts, best practices, and advanced topics to support your journey in workflow development and automation.
+The Australian BioCommons and members of the [National Bioinformatics Training Cooperative](https://www.biocommons.org.au/training-cooperative) have collaboratively developed high-quality Nextflow training resources over several years, supporting life science researchers across Australia to build practical workflow skills. This collection brings these materials together in one place for self-paced learning and for trainers who want to reuse and rerun workshops in their local context.
 
-### Browse the collection
+<div class="navigation-tiles d-flex flex-wrap gap-3 mt-4">
+
+  <a class="btn btn-primary" href="https://zenodo.org/records/16791039">Nextflow for the life sciences</a>
+
+  <a class="btn btn-primary" href="https://zenodo.org/records/20453332">Unlocking nf-core: customising workflows for your research</a>
+
+  <a class="btn btn-primary" href="https://zenodo.org/records/20740119">Using Containers in Nextflow</a>
+
+  <a class="btn btn-primary" href="https://zenodo.org/records/17694728">Nextflow on HPC</a>
+
+</div>
