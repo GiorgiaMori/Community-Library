@@ -578,15 +578,15 @@
   name: Nextflow for the life sciences
   provider: Sydney Informatics Hub and Australian BioCommons
   topics: self-paced learning
-  type: Static website
+  type: static website
   url: https://zenodo.org/records/16791039
 - collection:
   - nextflow
-  description: introduction to adapting existing nf-core workflows to suit your research needs, how to configure, customise and extend pipelines without having to build workflows from scratch.
+  description: Introduction to adapting existing nf-core workflows to suit your research needs, how to configure, customise and extend pipelines without having to build workflows from scratch.
   name: Unlocking nf-core: Customising workflows for your research
   provider: Sydney Informatics Hub and Australian BioCommons
   topics: self-paced learning
-  type: Static website
+  type: static website
   url: https://zenodo.org/records/20453332
 - collection:
   - nextflow
@@ -600,7 +600,15 @@
   - nextflow
   description: Introduction to configure and run Nextflow workflows on High Performance Computing (HPC) systems, including working with schedulers, software environments and Nextflow configuration.
   name: Nextflow on HPC
-  provider: Australian BioCommons
+  provider: Sydney Informatics Hub and Australian BioCommons
   topics: self-paced learning
   type: static website
   url: https://zenodo.org/records/17694728
+- collection:
+  - nextflow
+  description: Nextflow for the Life Sciences Trainer package that brings together ready-to-reuse teaching materials, instructor guidance and hands-on exercises, making it easier for trainers to adapt and deliver Nextflow training for their own communities.
+  name: Nextflow for the life sciences workshop materials
+  provider: Sydney Informatics Hub
+  topics: workshop materials
+  type: static website
+  url: https://sydney-informatics-hub.github.io/nf4ls-materials/
