@@ -579,7 +579,7 @@
   name: Nextflow for the life sciences
   provider: Sydney Informatics Hub and Australian BioCommons
   topics: self-paced learning
-  type: static website
+  type: Static website
   url: https://zenodo.org/records/16791039
 - collection:
   - nextflow
@@ -589,7 +589,7 @@
   name: 'Unlocking nf-core: Customising workflows for your research'
   provider: Sydney Informatics Hub and Australian BioCommons
   topics: self-paced learning
-  type: static website
+  type: Static website
   url: https://zenodo.org/records/20453332
 - collection:
   - nextflow
@@ -599,7 +599,7 @@
   name: Using Containers in Nextflow
   provider: Australian BioCommons
   topics: self-paced learning
-  type: YouTube video
+  type: YouTube video and slides
   url: https://zenodo.org/records/20740119
 - collection:
   - nextflow
@@ -609,7 +609,7 @@
   name: Nextflow on HPC
   provider: Sydney Informatics Hub and Australian BioCommons
   topics: self-paced learning
-  type: static website
+  type: Static website
   url: https://zenodo.org/records/17694728
 - collection:
   - nextflow
@@ -620,5 +620,5 @@
   name: Nextflow for the life sciences workshop materials
   provider: Sydney Informatics Hub
   topics: workshop materials
-  type: static website
+  type: Static website
   url: https://sydney-informatics-hub.github.io/nf4ls-materials/
