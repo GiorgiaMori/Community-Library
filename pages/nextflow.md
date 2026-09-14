@@ -26,7 +26,7 @@ The Australian BioCommons and members of the [National Bioinformatics Training C
 	</div>
 </div>
 
-{% assign nextflow_resources = site.data.all_content_list | add_collection | where: "collection", "nextflow" %}
+{% assign nextflow_resources = site.data.all_content_list | add_collection | where: "collection", "nextflow_training" %}
 
 ## Self-paced learning
 
