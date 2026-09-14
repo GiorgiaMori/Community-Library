@@ -1,5 +1,5 @@
 ---
-title: Nextflow
+title: Nextflow training
 type: Collection
 ---
 
